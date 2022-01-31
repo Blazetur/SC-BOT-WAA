@@ -1,7 +1,7 @@
 {
-  "name": "whatsapp-bot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "Kanna-bot",
+  "version": "1.1.0",
+  "description": "Jgn Di ubah",
   "main": "index.js",
   "directories": {
     "lib": "lib"
